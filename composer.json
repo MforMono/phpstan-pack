@@ -1,0 +1,12 @@
+{
+    "name": "mformono/phpstan-pack",
+    "type": "symfony-pack",
+    "license": "MIT",
+    "description": "A pack for phpstan with extensions",
+    "require": {
+        "phpstan/phpstan-symfony": "^2.0",
+        "phpstan/extension-installer": "*",
+	"phpstan/phpstan-doctrine": "*",
+        "phpstan/phpstan-webmozart-assert": "*"
+    }
+}
