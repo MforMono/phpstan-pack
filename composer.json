@@ -7,6 +7,7 @@
         "phpstan/phpstan-symfony": "^2.0",
         "phpstan/extension-installer": "*",
 	"phpstan/phpstan-doctrine": "*",
-        "phpstan/phpstan-webmozart-assert": "*"
+        "phpstan/phpstan-webmozart-assert": "*",
+	"spaze/phpstan-disallowed-calls": "*"
     }
 }
